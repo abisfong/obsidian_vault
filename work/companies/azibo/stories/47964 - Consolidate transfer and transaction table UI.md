@@ -13,6 +13,7 @@ We're currently using separate tables for transfers and transactions. Join the t
 - [ ] Add `Date range` filter to transfers table
 - [ ] Add ability to increase size of filter on screen size > tablet
 - [ ] Increase size of `Search` filter
+- [ ] Implement use of `transactionDisplayType` mentioned [here](https://zibo-workspace.slack.com/archives/D03G7BFBQK1/p1724706768022369)
 - [x] Remove selection checkboxes
 - [ ] Create PR to develop
 - [ ] Complete code review

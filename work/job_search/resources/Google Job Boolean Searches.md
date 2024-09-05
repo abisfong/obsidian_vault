@@ -1,4 +1,4 @@
-*Transfered on: 4 September 2024, 2pm*
+*Transferred from Notes on: 4 September 2024, 2pm*
 
 **SITES:**
 - [jobs.lever.co](http://jobs.lever.co)

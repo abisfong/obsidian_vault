@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Journal Entry - {{data}}, {{time}}.md",
+                "file": "research/types/react/HTML Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Journal Entry - {{data}}, {{time}}.md",
+                "file": "research/types/react/HTML Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Journal Entry - {{data}}, {{time}}.md",
+                "file": "research/types/react/HTML Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Journal Entry - {{data}}, {{time}}.md"
+                "file": "research/types/react/HTML Types.md"
               }
             }
           }
@@ -149,31 +149,33 @@
   },
   "active": "9c5920134a0e5dc8",
   "lastOpenFiles": [
-    "work/companies/azibo/journal/Untitled.md",
-    "templates/Journal Entry - {{data}}, {{time}}.md",
-    "templates/Story Template.md",
+    "research/material_ui/components/Table.md",
+    "work/job_search/interviews/AllStripes.md",
+    "work/job_search/resources/Google Job Boolean Searches.md",
+    "work/companies/azibo/features/Bookkeeping.md",
+    "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md",
     "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
     "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
     "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
+    "research/types/react/HTML Types.md",
+    "research/types",
+    "research/types/react",
+    "research/material_ui/components",
+    "research/aws/AWS Cloud Practitioner.md",
+    "research/aws",
+    "research/material_ui",
+    "templates/Story Template.md",
+    "work/companies/azibo/journal/Journal Entry 1.md",
+    "templates/Journal Entry - {{data}}, {{time}} {{title}}.md",
     "projects/ideas/Container.md",
     "records/keys",
     "records",
     "projects/apps",
-    "work/companies/azibo/features/Bookkeeping.md",
-    "work/companies/azibo/stories/Untitled.md",
     "work/companies/azibo/features",
     "work/companies/azibo/Untitled.md",
     "work/companies/azibo/epics",
     "Untitled.md",
-    "templates",
-    "work/job_search/resources/Google Job Boolean Searches.md",
-    "research/AWS Cloud Practitioner.md",
-    "work/job_search/resources/job_boards",
-    "work/job_search/resources",
-    "work/job_search/interviews/AllStripes.md",
-    "work/job_search/interviews",
     "resources/links/Digital Foot Print.md",
-    "projects/ideas",
     "resources/links/Web Dev.md",
     "2024-09-04.md"
   ]

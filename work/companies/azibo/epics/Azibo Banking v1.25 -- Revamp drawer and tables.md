@@ -6,5 +6,6 @@
 3. the drawer shows limited information and is formatted differently in each instance.
 
 **Stories**
+- [[45696 - Category picked on billpay is not showing on transactions in bookkeeping]]
 - [[47964 - Consolidate transfer and transaction table UI]]
-- 
+- [[48196 - Update category filters in bookkeeping page]]

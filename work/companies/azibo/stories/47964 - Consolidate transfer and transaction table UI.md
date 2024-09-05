@@ -13,9 +13,13 @@ We're currently using separate tables for transfers and transactions. Join the t
 - [ ] Add `Date range` filter to transfers table
 - [ ] Add ability to increase size of filter on screen size > tablet
 - [ ] Increase size of `Search` filter
-- [ ] Remove selection checkboxes
-- [ ] Merge to develop
-- [ ] Merge to production
+- [x] Remove selection checkboxes
+- [ ] Create PR to develop
+- [ ] Complete code review
+- [ ] Merged to develop
+- [ ] Create PR to production
+- [ ] Complete code review
+- [ ] Merged to production
 
 **Resources**
 [Shortcut Ticket](https://app.shortcut.com/azibo-inc/story/47964/fe-consolidate-transfer-and-transaction-table-ui)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/ideas/Container.md",
+                "file": "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/ideas/Container.md",
+                "file": "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/ideas/Container.md",
+                "file": "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/ideas/Container.md"
+                "file": "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md"
               }
             }
           }
@@ -143,20 +143,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33cf8879082d7e46",
+  "active": "9c5920134a0e5dc8",
   "lastOpenFiles": [
+    "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
+    "templates/Story Template.md",
+    "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
+    "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
+    "projects/ideas/Container.md",
     "records/keys",
     "records",
     "projects/apps",
     "work/companies/azibo/features/Bookkeeping.md",
-    "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
-    "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
-    "templates/Story Template.md",
     "work/companies/azibo/stories/Untitled.md",
-    "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
     "work/companies/azibo/features",
     "work/companies/azibo/Untitled.md",
     "work/companies/azibo/epics",
@@ -168,11 +170,9 @@
     "work/job_search/resources",
     "work/job_search/interviews/AllStripes.md",
     "work/job_search/interviews",
-    "projects/ideas/Container.md",
     "resources/links/Digital Foot Print.md",
     "projects/ideas",
     "resources/links/Web Dev.md",
-    "research",
     "2024-09-04.md"
   ]
 }

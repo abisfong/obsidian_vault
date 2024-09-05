@@ -1,3 +1,5 @@
+*Transfered on: 4 September 2024, 2pm*
+
 phone screen questions:
 - has AllStripes come across any research on Lynch Syndrome
 - what’s the culture like

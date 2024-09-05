@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
+                "file": "templates/Journal Entry - {{data}}, {{time}}.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
+                "file": "templates/Journal Entry - {{data}}, {{time}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
+                "file": "templates/Journal Entry - {{data}}, {{time}}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md"
+                "file": "templates/Journal Entry - {{data}}, {{time}}.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "9c5920134a0e5dc8",
   "lastOpenFiles": [
-    "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
+    "work/companies/azibo/journal/Untitled.md",
+    "templates/Journal Entry - {{data}}, {{time}}.md",
     "templates/Story Template.md",
     "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
+    "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
     "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
     "projects/ideas/Container.md",
     "records/keys",

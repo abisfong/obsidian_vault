@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/types/react/HTML Types.md",
+                "file": "work/job_search/resources/Google Job Boolean Searches.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd49206113cccb65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/job_search/cover_letters/Pika - Frontend Engineer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c00d08a92e52e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Cover Letter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/types/react/HTML Types.md",
+                "file": "work/job_search/cover_letters/Pika - Frontend Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/types/react/HTML Types.md",
+                "file": "work/job_search/cover_letters/Pika - Frontend Engineer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/types/react/HTML Types.md"
+                "file": "work/job_search/cover_letters/Pika - Frontend Engineer.md"
               }
             }
           }
@@ -147,25 +172,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c5920134a0e5dc8",
+  "active": "cd49206113cccb65",
   "lastOpenFiles": [
+    "work/job_search/interviews/TikTok - Trust and Saftey.md",
+    "work/job_search/cover_letters/Pika - Frontend Engineer.md",
+    "templates/Cover Letter.md",
+    "templates/Story Template.md",
+    "work/job_search/resources/Google Job Boolean Searches.md",
+    "work/job_search/cover_letters",
+    "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
+    "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
+    "work/companies/azibo/features/Bookkeeping.md",
+    "work/companies/azibo/journal/Journal Entry 1.md",
+    "research/types/react/HTML Types.md",
     "research/material_ui/components/Table.md",
     "work/job_search/interviews/AllStripes.md",
-    "work/job_search/resources/Google Job Boolean Searches.md",
-    "work/companies/azibo/features/Bookkeeping.md",
     "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md",
-    "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
     "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
-    "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
-    "research/types/react/HTML Types.md",
     "research/types",
     "research/types/react",
     "research/material_ui/components",
     "research/aws/AWS Cloud Practitioner.md",
     "research/aws",
     "research/material_ui",
-    "templates/Story Template.md",
-    "work/companies/azibo/journal/Journal Entry 1.md",
     "templates/Journal Entry - {{data}}, {{time}} {{title}}.md",
     "projects/ideas/Container.md",
     "records/keys",
@@ -173,8 +202,6 @@
     "projects/apps",
     "work/companies/azibo/features",
     "work/companies/azibo/Untitled.md",
-    "work/companies/azibo/epics",
-    "Untitled.md",
     "resources/links/Digital Foot Print.md",
     "resources/links/Web Dev.md",
     "2024-09-04.md"

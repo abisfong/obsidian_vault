@@ -6,8 +6,8 @@ We're currently using separate tables for transfers and transactions. Join the t
 - [ ] Add `Contact` column to both tables
 - [ ] Add `Incoming/Outgoing` filter to both tables (replaces `Type` filter)
 - [ ] Add `Type` to transaction table
-- [ ] Add `View` button to transfers table
-- [ ] Add `Property` column to transfers table
+- [x] Add `View` button to transfers table
+- [x] Add `Property` column to transfers table
 - [ ] Indicate outgoing transfer with red, negative numbers
 - [ ] Add `Search` filter to transfers table
 - [ ] Add `Date range` filter to transfers table

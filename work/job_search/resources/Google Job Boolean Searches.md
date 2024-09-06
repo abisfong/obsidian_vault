@@ -8,7 +8,7 @@
 - [job-openings.monster.com](http://job-openings.monster.com)
 
 **QUERIES:**
-site: AND ("Junior" OR "Entry" OR "Entry Level" OR "Fresher") AND ("Software" OR "Engineer" OR "Frontend" OR “Front End” OR “Front-End” OR “Full Stack” OR “”Developer) AND ("Job" OR “Opening” OR ”Position”)
+site: AND ("Junior" OR "Entry" OR "Entry Level" OR "Fresher" OR "") AND ("Software" OR "Engineer" OR "Frontend" OR “Front End” OR “Front-End” OR “Full Stack” OR “”Developer) AND ("Job" OR “Opening” OR ”Position”)
 
 site: AND ("Junior" OR "Entry" OR "Entry Level" OR "Fresher") AND ("Software" OR "Engineer" OR "Frontend" OR “Front End” OR “Front-End” OR “Full Stack” OR “”Developer) AND ("Job" OR “Opening” OR ”Position”) AND (“Remote”)
 

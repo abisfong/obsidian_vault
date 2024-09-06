@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "cd49206113cccb65",
+            "id": "ebb8a70201b99508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/job_search/cover_letters/Pika - Frontend Engineer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c00d08a92e52e1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Cover Letter.md",
+                "file": "research/books/Cracking The Coding Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/job_search/cover_letters/Pika - Frontend Engineer.md",
+                "file": "research/books/Cracking The Coding Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/job_search/cover_letters/Pika - Frontend Engineer.md",
+                "file": "research/books/Cracking The Coding Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/job_search/cover_letters/Pika - Frontend Engineer.md"
+                "file": "research/books/Cracking The Coding Interview.md"
               }
             }
           }
@@ -172,16 +160,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd49206113cccb65",
+  "active": "ebb8a70201b99508",
   "lastOpenFiles": [
     "work/job_search/interviews/TikTok - Trust and Saftey.md",
-    "work/job_search/cover_letters/Pika - Frontend Engineer.md",
-    "templates/Cover Letter.md",
-    "templates/Story Template.md",
-    "work/job_search/resources/Google Job Boolean Searches.md",
-    "work/job_search/cover_letters",
     "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
+    "templates/Story Template.md",
+    "work/job_search/resources/Interview Prep.md",
+    "research/books/Cracking The Coding Interview.md",
+    "templates/Cover Letter Template.md",
+    "research/books",
+    "work/job_search/resources/Google Job Boolean Searches.md",
     "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
+    "work/job_search/cover_letters/Pika - Frontend Engineer.md",
+    "work/job_search/cover_letters",
     "work/companies/azibo/features/Bookkeeping.md",
     "work/companies/azibo/journal/Journal Entry 1.md",
     "research/types/react/HTML Types.md",
@@ -200,7 +191,6 @@
     "records/keys",
     "records",
     "projects/apps",
-    "work/companies/azibo/features",
     "work/companies/azibo/Untitled.md",
     "resources/links/Digital Foot Print.md",
     "resources/links/Web Dev.md",

@@ -43,6 +43,6 @@
 - How many technologies does TikTok currently support?
 
 ## Resources
-- [[TikTok Company Research|TikTok Company Research]] company research
+- [[TikTok Overview|TikTok Overview]] company research
 
 ## Round 1

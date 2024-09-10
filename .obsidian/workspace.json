@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/job_search/resources/Google Job Boolean Searches.md",
+                "file": "research/books/Cracking The Coding Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/books/Cracking The Coding Interview.md",
+                "file": "work/job_search/interviews/TikTok Interview Preparation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a148ca88f3efb44a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/job_search/company_research/TikTok/TikTok Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29fc0f2898201096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research/data_structures/trees/binary/Binary Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0591373b170faae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research/data_structures/trees/binary/Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/books/Cracking The Coding Interview.md",
+                "file": "research/data_structures/trees/binary/Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/books/Cracking The Coding Interview.md",
+                "file": "research/data_structures/trees/binary/Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/books/Cracking The Coding Interview.md"
+                "file": "research/data_structures/trees/binary/Binary Tree.md"
               }
             }
           }
@@ -160,40 +196,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebb8a70201b99508",
+  "active": "33cf8879082d7e46",
   "lastOpenFiles": [
-    "work/job_search/interviews/TikTok - Trust and Saftey.md",
+    "research/data_structures/trees/binary/Complete Binary Tree.md",
+    "research/data_structures/trees/binary/Binary Tree.md",
+    "research/data_structures/trees/binary",
+    "research/data_structures/trees/binary/Binary Heap.md",
+    "research/data_structures/trees/binary/Max Heap.md",
+    "research/data_structures/trees",
+    "research/data_structures/trees/binary/Min Heap.md",
+    "research/algorithms/Heap Sort.md",
+    "research/algorithms/Noncontiguous Subsets.md",
     "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
-    "templates/Story Template.md",
-    "work/job_search/resources/Interview Prep.md",
-    "research/books/Cracking The Coding Interview.md",
-    "templates/Cover Letter Template.md",
-    "research/books",
+    "research/data_structures",
+    "research/algorithms/Contiguous Subsets.md",
+    "work/job_search/company_research/TikTok/TikTok Partnership With FOSI.md",
+    "work/job_search/company_research/TikTok/TikTok Overview.md",
+    "work/job_search/coding_challenges/leetcode/2334. Subarray With Elements Greater Than Varying Threshold.md",
+    "work/job_search/resources/Interview Preparation Resources.md",
+    "work/job_search/interviews/AllStripes Interview Preparation.md",
+    "work/job_search/interviews/TikTok Interview Preparation.md",
+    "research/algorithms",
+    "work/job_search/company_research/TikTok",
     "work/job_search/resources/Google Job Boolean Searches.md",
+    "research/books/Cracking The Coding Interview.md",
+    "work/job_search/company_research",
+    "work/job_search/coding_challenges/leetcode",
+    "work/job_search/coding_challenges",
+    "templates/Cover Letter Template.md",
+    "templates/Story Template.md",
+    "research/books",
     "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
     "work/job_search/cover_letters/Pika - Frontend Engineer.md",
     "work/job_search/cover_letters",
     "work/companies/azibo/features/Bookkeeping.md",
     "work/companies/azibo/journal/Journal Entry 1.md",
     "research/types/react/HTML Types.md",
-    "research/material_ui/components/Table.md",
-    "work/job_search/interviews/AllStripes.md",
-    "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md",
-    "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
-    "research/types",
-    "research/types/react",
-    "research/material_ui/components",
-    "research/aws/AWS Cloud Practitioner.md",
-    "research/aws",
-    "research/material_ui",
-    "templates/Journal Entry - {{data}}, {{time}} {{title}}.md",
-    "projects/ideas/Container.md",
-    "records/keys",
-    "records",
-    "projects/apps",
-    "work/companies/azibo/Untitled.md",
-    "resources/links/Digital Foot Print.md",
-    "resources/links/Web Dev.md",
-    "2024-09-04.md"
+    "research/material_ui/components/Table.md"
   ]
 }

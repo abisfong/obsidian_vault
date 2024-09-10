@@ -6,7 +6,7 @@ function generateSubsetsRecursively (arr, res, subset, idx, latestIdxPushed = 0)
     res.push([...subset]);
 
     for (let i = idx; i < arr.length; i++) {
-        if (latestIdxPushed >= i - 1) {
+        if (latestIdxPushed >= i - 1 || idx === 0) {
             subset.push(arr[i]);
             generateSubsetsRecursively(arr, res, subset, i + 1, i);
             subset.pop();

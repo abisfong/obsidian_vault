@@ -3,9 +3,9 @@
 We're currently using separate tables for transfers and transactions. Join the table UI into one.
 
 **Tasks**
-- [ ] Add `Contact` column to both tables
+- [x] Add `Contact` column to both tables
 - [ ] Add `Incoming/Outgoing` filter to both tables (replaces `Type` filter)
-- [ ] Add `Type` to transaction table
+- [x] Add `Type` to transaction table
 - [x] Add `View` button to transfers table
 - [x] Add `Property` column to transfers table
 - [ ] Indicate outgoing transfer with red, negative numbers
@@ -13,8 +13,8 @@ We're currently using separate tables for transfers and transactions. Join the t
 - [ ] Add `Date range` filter to transfers table
 - [ ] Add ability to increase size of filter on screen size > tablet
 - [ ] Increase size of `Search` filter
-- [ ] Implement use of `transactionDisplayType` mentioned [here](https://zibo-workspace.slack.com/archives/D03G7BFBQK1/p1724706768022369)
-- [ ] Change check deposit color to peach
+- [x] Implement use of `transactionDisplayType` mentioned [here](https://zibo-workspace.slack.com/archives/D03G7BFBQK1/p1724706768022369)
+- [ ] Change check deposit item color on hover to peach
 - [ ] Make these changes in accounts page only by duplicating code and maintaining old code in bookkeeping page and outgoing payments
 - [x] Remove selection checkboxes
 
@@ -32,6 +32,7 @@ We're currently using separate tables for transfers and transactions. Join the t
 
 **Questions**
 - Will the bookkeeping table be updated by the growth pod?
+	- *JVL: Yes*
 
 **Notes**
 - **These updates are only within the accounts page**

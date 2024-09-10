@@ -1,1 +1,1 @@
-A complete binary tree is a special type of [[Binary Tree]] where all the levels of the tree are filled completely except the lowest level nodes which are filled from as left as possible.
+A [[Complete Binary Tree]] is a balanced [[Binary Tree]] where all the levels of the tree are filled completely except the lowest level nodes which are filled from as left as possible.

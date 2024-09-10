@@ -1,0 +1,1 @@
+A [[Min Heap Tree]] is a [[Binary Heap Tree]] where the key at the root is the minimum among all keys present. The same property must be recursively true for all nodes in tree.

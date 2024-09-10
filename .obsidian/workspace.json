@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/data_structures/trees/binary/Binary Tree.md",
+                "file": "research/data_structures/trees/binary/Min Heap Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/data_structures/trees/binary/Binary Tree.md",
+                "file": "research/data_structures/trees/binary/Min Heap Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/data_structures/trees/binary/Binary Tree.md",
+                "file": "research/data_structures/trees/binary/Min Heap Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/data_structures/trees/binary/Binary Tree.md"
+                "file": "research/data_structures/trees/binary/Min Heap Tree.md"
               }
             }
           }
@@ -196,15 +196,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33cf8879082d7e46",
+  "active": "0591373b170faae4",
   "lastOpenFiles": [
+    "research/data_structures/trees/binary/Max Heap Tree.md",
+    "research/data_structures/trees/binary/Binary Heap Tree.md",
     "research/data_structures/trees/binary/Complete Binary Tree.md",
     "research/data_structures/trees/binary/Binary Tree.md",
+    "research/data_structures/trees/binary/Min Heap Tree.md",
     "research/data_structures/trees/binary",
-    "research/data_structures/trees/binary/Binary Heap.md",
-    "research/data_structures/trees/binary/Max Heap.md",
     "research/data_structures/trees",
-    "research/data_structures/trees/binary/Min Heap.md",
     "research/algorithms/Heap Sort.md",
     "research/algorithms/Noncontiguous Subsets.md",
     "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",

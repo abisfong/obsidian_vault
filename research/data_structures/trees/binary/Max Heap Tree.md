@@ -1,0 +1,1 @@
+A [[Max Heap Tree]] is a [[Binary Heap Tree]]

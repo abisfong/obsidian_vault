@@ -1,4 +1,4 @@
-A [[Binary Heap]] is a [[Complete Binary Tree]] where each node is either greater than ([[Max Heap]]) or less than ([[Min Heap]]) its children
+A [[Binary Heap Tree]] is a [[Complete Binary Tree]] where each node is either greater than ([[Max Heap Tree]]) or less than ([[Min Heap Tree]]) its children
 # Representation
 A binary heap is typically represented as an array.
 

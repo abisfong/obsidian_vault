@@ -1,7 +1,7 @@
 The contiguous subsets of a list of elements are all the unique tuples that can be derived by removing 0 or more elements of the list, up to all elements, while maintaining the neighbors each element, with exception to the ends of the list.
 # Code
 
-```
+```js
 function generateSubsetsRecursively (arr, res, subset, idx, latestIdxPushed = 0) {
     res.push([...subset]);
 

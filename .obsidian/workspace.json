@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Story Template.md",
+                "file": "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e869814b6478f4cf",
+            "id": "98eb32e589fd7e5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
+                "file": "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0062a7d6366f7306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Story Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Story Template.md",
+                "file": "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Story Template.md",
+                "file": "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Story Template.md"
+                "file": "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md"
               }
             }
           }
@@ -171,12 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "487eb5d2fe3b34ee",
+  "active": "98eb32e589fd7e5c",
   "lastOpenFiles": [
-    "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
     "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
     "templates/Story Template.md",
     "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md",
+    "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
     "templates/Cover Letter Template.md",
     "work/companies/azibo/features/Bookkeeping.md",
     "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",

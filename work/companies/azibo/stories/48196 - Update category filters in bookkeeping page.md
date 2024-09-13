@@ -12,6 +12,10 @@ Filters for bookkeeping page need to be updated to match changes in BE
 - [ ] Create PR to production
 - [ ] Complete code review
 - [ ] Merged to production
-
+# Resources
+- [Shortcut Ticket]()
+- [Figma]()
+## Questions
+- 
 ## Notes
 - 

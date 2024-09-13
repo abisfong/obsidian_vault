@@ -13,7 +13,8 @@ Description of story
 - [ ] Complete code review
 - [ ] Merged to production
 # Resources
-- 
+- [Shortcut Ticket]()
+- [Figma]()
 ## Questions
 - 
 ## Notes

@@ -2,10 +2,10 @@
 
 Description of story
 
-**Tasks**
+## Tasks
 - [ ] 
 
-**Deployment**
+## Deployment
 - [ ] Create PR to develop
 - [ ] Complete code review
 - [ ] Merged to develop
@@ -13,5 +13,7 @@ Description of story
 - [ ] Complete code review
 - [ ] Merged to production
 
-**Notes**
+## Questions
+- 
+## Notes
 - 

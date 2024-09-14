@@ -1,10 +1,8 @@
 *Created on: {{date}}, {{time}}*
 
 Description of story
-
 ## Tasks
 - [ ] 
-
 ## Deployment
 - [ ] Create PR to develop
 - [ ] Complete code review
@@ -12,6 +10,8 @@ Description of story
 - [ ] Create PR to production
 - [ ] Complete code review
 - [ ] Merged to production
+# Blockers
+- 
 # Resources
 - [Shortcut Ticket]()
 - [Figma]()

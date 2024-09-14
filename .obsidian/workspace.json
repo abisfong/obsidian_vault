@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
+                "file": "work/companies/azibo/stories/Consolidate transaction and transfer drawer UI.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md",
+                "file": "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0062a7d6366f7306",
+            "id": "45ac1846998d3b28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md",
+                "file": "work/companies/azibo/stories/Consolidate transaction and transfer drawer UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md",
+                "file": "work/companies/azibo/stories/Consolidate transaction and transfer drawer UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md"
+                "file": "work/companies/azibo/stories/Consolidate transaction and transfer drawer UI.md"
               }
             }
           }
@@ -184,15 +183,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98eb32e589fd7e5c",
+  "active": "487eb5d2fe3b34ee",
   "lastOpenFiles": [
+    "work/companies/azibo/stories/47976 - Add scheduled tab in Accounts page.md",
     "work/companies/azibo/stories/47964 - Consolidate transfer and transaction table UI.md",
-    "templates/Story Template.md",
-    "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md",
+    "work/companies/azibo/stories/Consolidate transaction and transfer drawer UI.md",
     "work/companies/azibo/stories/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
-    "templates/Cover Letter Template.md",
-    "work/companies/azibo/features/Bookkeeping.md",
+    "work/companies/azibo/stories/48196 - Update category filters in bookkeeping page.md",
+    "templates/Story Template.md",
     "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
+    "work/companies/azibo/features/Bookkeeping.md",
+    "work/companies/azibo/journal/Journal Entry 1.md",
+    "templates/Cover Letter Template.md",
     "research/data_structures/trees/binary/Binary Heap Tree.md",
     "research/algorithms/Noncontiguous Subsets.md",
     "research/algorithms/Heap Sort.md",
@@ -212,11 +214,8 @@
     "work/job_search/company_research/TikTok/TikTok Partnership With FOSI.md",
     "work/job_search/company_research/TikTok/TikTok Overview.md",
     "work/job_search/resources/Interview Preparation Resources.md",
-    "work/job_search/interviews/AllStripes Interview Preparation.md",
-    "work/job_search/interviews/TikTok Interview Preparation.md",
     "research/algorithms",
     "work/job_search/company_research/TikTok",
-    "work/job_search/resources/Google Job Boolean Searches.md",
     "work/job_search/company_research",
     "work/job_search/coding_challenges/leetcode",
     "work/job_search/coding_challenges",

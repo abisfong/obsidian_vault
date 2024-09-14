@@ -15,6 +15,8 @@
 - [ ] Create PR to production
 - [ ] Complete code review
 - [ ] Merged to production
+# Blockers
+- None
 ## Resources
 - 
 ## Notes

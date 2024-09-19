@@ -14,10 +14,9 @@ We're currently using separate tables for transfers and transactions. Join the t
 - [x] Add ability to increase size of filter on screen size > tablet
 - [x] Increase size of `Search` filter
 - [x] Implement use of `transactionDisplayType` mentioned [here](https://zibo-workspace.slack.com/archives/D03G7BFBQK1/p1724706768022369)
-- [ ] Change check deposit item color on hover to peach
 - [x] Make these changes in accounts page only by duplicating code and maintaining old code in bookkeeping page and outgoing payments
 - [x] Remove selection checkboxes
-- [ ] Update incoming/outgoing filter to use BE updates and include transfer properties
+- [x] Update incoming/outgoing filter to use BE updates and include transfer properties
 ## Deployment
 - [ ] Create PR to develop
 - [ ] Complete code review

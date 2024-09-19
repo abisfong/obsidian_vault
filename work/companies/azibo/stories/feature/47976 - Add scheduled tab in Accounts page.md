@@ -2,7 +2,7 @@
 
 Add scheduled tab in accounts page using new transfer table
 ## Tasks
-- [ ] 
+- [x] Add scheduled endpoint to transfer table and an option to switch between it and regular transfers
 
 ## Deployment
 - [ ] Create PR to develop

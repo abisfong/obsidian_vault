@@ -2,6 +2,13 @@
 
 Description of story
 ## Tasks
+- [x] Change check deposit item color on hover to peach
+- [x] Add payment timing section
+- [x] Add recipient information
+- [x] Add account details
+- [x] Update bookkeeping form to match new design
+- [x] Add section styling
+- [ ] Show transfer bookkeeping record values
 - [ ] 
 ## Deployment
 - [ ] Create PR to develop
@@ -16,6 +23,10 @@ Description of story
 - [Shortcut Ticket]()
 - [Figma]()
 ## Questions
-- 
+- Recipient details
+	- Ankur
+		- Where can I find the institution name
+	- Assel
+		- What is institution name?
 ## Notes
 - 

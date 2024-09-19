@@ -9,7 +9,6 @@ Description of story
 - [x] Update bookkeeping form to match new design
 - [x] Add section styling
 - [ ] Show transfer bookkeeping record values
-- [ ] 
 ## Deployment
 - [ ] Create PR to develop
 - [ ] Complete code review

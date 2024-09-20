@@ -1,0 +1,1 @@
+1. Mark a story complete when all of its tasks are done

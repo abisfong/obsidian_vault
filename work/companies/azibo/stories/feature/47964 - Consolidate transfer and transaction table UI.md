@@ -1,7 +1,6 @@
 *Created on: 4 September 2024, 12:15pm*
 
 We're currently using separate tables for transfers and transactions. Join the table UI into one.
-
 ## Tasks
 - [x] Add `Contact` column to both tables
 - [x] Add `Incoming/Outgoing` filter to both tables (replaces `Type` filter)

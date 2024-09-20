@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f532f0438d373e95",
+            "id": "de1ca2cdaf6b712f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c5d7e0c829c7998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
+                "file": "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
+                "file": "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "483d435594411a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/companies/azibo/stories/feature/48196 - Update category filters in bookkeeping page.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
+                "file": "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
+                "file": "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md"
+                "file": "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md"
               }
             }
           }
@@ -174,36 +174,36 @@
   },
   "active": "5c71c98ef16f7664",
   "lastOpenFiles": [
-    "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md",
-    "work/companies/azibo/stories/feature/Consolidate transaction and transfer drawer UI.md",
-    "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
     "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
-    "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
+    "work/companies/azibo/stories/feature/47976 - Add scheduled tab in Accounts page.md",
+    "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
+    "work/companies/azibo/stories/bugs/47491 - Manually created transactions that are unassigned a category and or property don't appear in Unassigned.md",
     "work/companies/azibo/stories/bugs/48709 - Landlord Cannot Extend Prorated Payment Terms.md",
-    "work/companies/azibo/journal/Journal Entry 1.md",
+    "templates/Epic Template.md",
+    "templates/Story Template.md",
+    "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
+    "templates/Cover Letter Template.md",
+    "work/companies/azibo/stories/feature/48196 - Update category filters in bookkeeping page.md",
+    "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
     "work/companies/azibo/features/Bookkeeping.md",
+    "work/companies/azibo/epics/README.md",
+    "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md",
+    "work/companies/azibo/journal/Journal Entry 1.md",
+    "work/job_search/resources/Google Job Boolean Searches.md",
+    "work/job_search/resources/Interview Preparation Resources.md",
     "work/companies/azibo/bug_trackers",
     "work/companies/azibo/stories/bugs",
-    "work/companies/azibo/stories/feature/47976 - Add scheduled tab in Accounts page.md",
     "work/companies/azibo/untracked/Untitled 1.md",
     "work/companies/azibo/stories/feature",
     "work/companies/azibo/untracked/Untitled.md",
     "work/companies/azibo/untracked",
-    "work/companies/azibo/stories/feature/48196 - Update category filters in bookkeeping page.md",
-    "work/job_search/resources/Google Job Boolean Searches.md",
     "resources/links/Web Dev.md",
-    "templates/Story Template.md",
-    "templates/Cover Letter Template.md",
     "research/data_structures/trees/binary/Binary Heap Tree.md",
     "research/algorithms/Noncontiguous Subsets.md",
     "research/algorithms/Heap Sort.md",
     "research/algorithms/Depth First Search.md",
     "research/algorithms/Contiguous Subsets.md",
     "research/algorithms/Merge Sort.md",
-    "work/job_search/coding_challenges/leetcode/2334. Subarray With Elements Greater Than Varying Threshold.md",
-    "work/job_search/coding_challenges/leetcode/1151. Minimum Swaps to Group All 1's Together.md",
-    "research/data_structures/trees/binary/Balanced Binary Tree.md",
-    "research/data_structures/trees/binary/Binary Tree.md",
     "research/data_structures/trees/binary",
     "research/data_structures/trees",
     "research/data_structures",

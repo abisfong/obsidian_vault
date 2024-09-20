@@ -1,6 +1,4 @@
 *Created on: 13 September 2024, 16:48*
-
-Description of story
 ## Tasks
 - [x] Change check deposit item color on hover to peach
 - [x] Add payment timing section

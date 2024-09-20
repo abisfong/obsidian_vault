@@ -1,8 +1,7 @@
 *Created on: 19 September 2024, 15:37*
-
-Description of story
 ## Tasks
-- [ ] 
+- [ ] Use repro instructions to recreate bug
+- [ ] Look at form validation, which may be causing the issue
 ## Deployment
 - [ ] Create PR to develop
 - [ ] Complete code review

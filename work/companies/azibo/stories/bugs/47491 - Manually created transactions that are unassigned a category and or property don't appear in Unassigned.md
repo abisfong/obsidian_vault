@@ -1,6 +1,4 @@
 *Created on: 19 September 2024, 16:29*
-
-Description of story
 ## Tasks
 - [ ] Finish [[48196 - Update category filters in bookkeeping page]] and this will be fixed
 ## Deployment

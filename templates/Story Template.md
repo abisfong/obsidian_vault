@@ -11,7 +11,7 @@ Description of story
 - [ ] Complete code review
 - [ ] Merged to production
 # Blockers
-- 
+- None
 # Resources
 - [Shortcut Ticket]()
 - [Figma]()

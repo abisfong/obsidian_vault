@@ -1,0 +1,12 @@
+- Work on things early
+	- Stay on top of your work
+- Being communicative of blockers so the team can accommodate
+	- Backend
+	- Design discrepancies
+- Set better expectations
+	- Do not be optimistic
+	- Be honest in standup
+- Check work
+	- Test work before QA
+	- Test work after each update
+	- Do not deploy something that is buggy

@@ -1,7 +1,7 @@
 *Created on: 19 September 2024, 15:37*
 ## Tasks
-- [ ] Use repro instructions to recreate bug
-- [ ] Look at form validation, which may be causing the issue
+- [x] Use repro instructions to recreate bug
+- [x] Look at form validation, which may be causing the issue
 ## Deployment
 - [ ] Create PR to develop
 - [ ] Complete code review
@@ -16,4 +16,4 @@
 ## Questions
 - 
 ## Notes
-- 
+- Payment term initial state had duplicate code. I consolidated it and assigned the correct values when extending terms. The issue was that `isFirstMonthProrated` as being set to true, which it can't be for an extended payment term. `isLastMonthProrated` was also being set to true, but 

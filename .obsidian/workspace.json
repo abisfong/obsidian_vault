@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de1ca2cdaf6b712f",
+            "id": "70fc79f7d8acc5d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/job_search/interviews/Meta Interview Preparation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "199445f88f795f8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +32,30 @@
             }
           },
           {
-            "id": "5c71c98ef16f7664",
+            "id": "cbb23a59ae83f1d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
+                "file": "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5377279bcf88b3ab",
+            "id": "136b62acc16dde96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/standards/Epic Standards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "483d435594411a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/companies/azibo/stories/feature/48196 - Update category filters in bookkeeping page.md",
+                "file": "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/standards/Epic Standards.md",
+                "file": "work/job_search/interviews/Meta Interview Preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/standards/Epic Standards.md",
+                "file": "work/job_search/interviews/Meta Interview Preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/standards/Epic Standards.md"
+                "file": "work/job_search/interviews/Meta Interview Preparation.md"
               }
             }
           }
@@ -184,43 +183,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5377279bcf88b3ab",
+  "active": "70fc79f7d8acc5d6",
   "lastOpenFiles": [
     "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
+    "work/job_search/interviews/Meta Interview Preparation.md",
+    "work/companies/azibo/performance/AJ Performance Review.md",
+    "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
+    "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
+    "work/job_search/interviews/TikTok Interview Preparation.md",
+    "work/job_search/interviews/AllStripes Interview Preparation.md",
+    "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md",
+    "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
+    "work/companies/azibo/stories/feature/47976 - Add scheduled tab in Accounts page.md",
+    "work/companies/azibo/stories/bugs/48709 - Landlord Cannot Extend Prorated Payment Terms.md",
+    "work/companies/azibo/stories/feature/48196 - Update category filters in bookkeeping page.md",
+    "work/companies/azibo/features/Bookkeeping.md",
+    "projects/ideas/apps/MIFY.md",
+    "projects/ideas/apps/Untitled.md",
+    "projects/ideas/apps/Container.md",
+    "projects/ideas/apps",
+    "projects/ideas/apps/Small Groups.md",
+    "projects/ideas/components",
+    "work/companies/azibo/performance",
+    "work/companies/azibo/stories/bugs/47491 - Manually created transactions that are unassigned a category and or property don't appear in Unassigned.md",
     "resources/standards/Epic Standards.md",
     "resources/standards",
     "templates/Journal Entry Template.md",
     "work/companies/azibo/journal/Journal Entry 1.md",
     "templates/Story Template.md",
     "templates/Epic Template.md",
-    "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
-    "work/companies/azibo/stories/feature/48196 - Update category filters in bookkeeping page.md",
-    "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
-    "work/companies/azibo/stories/feature/47976 - Add scheduled tab in Accounts page.md",
-    "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
-    "work/companies/azibo/stories/bugs/47491 - Manually created transactions that are unassigned a category and or property don't appear in Unassigned.md",
-    "work/companies/azibo/stories/bugs/48709 - Landlord Cannot Extend Prorated Payment Terms.md",
     "templates/Cover Letter Template.md",
-    "work/companies/azibo/features/Bookkeeping.md",
     "work/companies/azibo/epics/README.md",
-    "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md",
     "work/job_search/resources/Google Job Boolean Searches.md",
-    "work/job_search/resources/Interview Preparation Resources.md",
     "work/companies/azibo/bug_trackers",
     "work/companies/azibo/stories/bugs",
-    "work/companies/azibo/untracked/Untitled 1.md",
     "work/companies/azibo/stories/feature",
-    "work/companies/azibo/untracked/Untitled.md",
     "work/companies/azibo/untracked",
-    "resources/links/Web Dev.md",
-    "research/data_structures/trees/binary/Binary Heap Tree.md",
-    "research/algorithms/Noncontiguous Subsets.md",
-    "research/algorithms/Heap Sort.md",
-    "research/algorithms/Depth First Search.md",
     "research/data_structures/trees/binary",
-    "research/data_structures/trees",
-    "research/data_structures",
-    "research/algorithms",
-    "work/job_search/company_research/TikTok"
+    "research/data_structures/trees"
   ]
 }

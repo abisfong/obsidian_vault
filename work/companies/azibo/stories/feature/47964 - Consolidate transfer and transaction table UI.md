@@ -16,6 +16,10 @@ We're currently using separate tables for transfers and transactions. Join the t
 - [x] Make these changes in accounts page only by duplicating code and maintaining old code in bookkeeping page and outgoing payments
 - [x] Remove selection checkboxes
 - [x] Update incoming/outgoing filter to use BE updates and include transfer properties
+- [x] Remove contact sorting in transfer table
+- [x] Update sorting filters to match design
+- [x] Remove category filter from transfer table
+- [x] Update sorting filters to pass PGS sorting params
 ## Deployment
 - [ ] Create PR to develop
 - [ ] Complete code review

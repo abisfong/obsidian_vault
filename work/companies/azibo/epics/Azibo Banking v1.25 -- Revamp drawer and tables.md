@@ -6,7 +6,7 @@
 ## Stories
 ### Features
 - [x] [[45696 - Category picked on billpay is not showing on transactions in bookkeeping]]
-- [ ] [[47964 - Consolidate transfer and transaction table UI]]
+- [x] [[47964 - Consolidate transfer and transaction table UI]]
 - [ ] [[48196 - Update category filters in bookkeeping page]]
 - [x] [[47976 - Add scheduled tab in Accounts page]]
 - [ ] [[48883 - Consolidate transaction and transfer drawer UI]]

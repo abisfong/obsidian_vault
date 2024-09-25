@@ -19,7 +19,7 @@
 - [ ] Add delete scheduled transfer subpage and button
 - [x] Use next transfer date in scheduled transfers payment timing
 - [ ] Add alert when bookkeeping record is disabled
-- [ ] Show frequency for selected transfers in design
+- [x] Show frequency for selected transfers in design
 - [ ] Fix `Payment Timing` date label
 ## Deployment
 - [ ] Create PR to develop

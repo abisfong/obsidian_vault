@@ -8,7 +8,7 @@
 - [x] Add section styling
 - [x] Show transfer bookkeeping record values
 - [ ] Update recipient information to use recipient api (ask Ankur)
-- [ ] Update title to reflect transfer type
+- [x] Update title to reflect transfer type
 - [ ] Use front or back of check image title for drawer when in attachment view
 - [x] GIVE JOSH UPDATE BY EOD (SEP 24) OF ESTIMATE
 - [x] Disable bookkeeping record for transfers except scheduled

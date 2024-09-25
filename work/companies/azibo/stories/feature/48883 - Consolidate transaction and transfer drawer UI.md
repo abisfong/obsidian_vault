@@ -8,17 +8,19 @@
 - [x] Add section styling
 - [x] Show transfer bookkeeping record values
 - [ ] Update recipient information to use recipient api (ask Ankur)
-- [ ] Add edit and delete button for transfers
-- [ ] Include transfer drawers for edit and delete in new transfer table
-- [ ] Update title reflect transfer type
-- [ ] GIVE JOSH UPDATE BY EOD (SEP 24) OF ESTIMATE
-- [ ] Disable bookkeeping record for transfers except scheduled
-- [ ] Remove memo data from transaction details
-- [ ] Remove `includeInScheduleE` for transfers
-- [ ] Add ability to update for scheduled transfers
+- [ ] Update title to reflect transfer type
+- [ ] Use front or back of check image title for drawer when in attachment view
+- [x] GIVE JOSH UPDATE BY EOD (SEP 24) OF ESTIMATE
+- [x] Disable bookkeeping record for transfers except scheduled
+- [x] Remove memo data from transaction details
+- [x] Remove `includeInScheduleE` for transfers
+- [ ] Add ability to update scheduled transfers
 - [ ] Add edit scheduled transfer drawer subpages and button
 - [ ] Add delete scheduled transfer subpage and button
-- [ ] Use next transfer date in scheduled transfers payment timing
+- [x] Use next transfer date in scheduled transfers payment timing
+- [ ] Add alert when bookkeeping record is disabled
+- [ ] Show frequency for selected transfers in design
+- [ ] Fix `Payment Timing` date label
 ## Deployment
 - [ ] Create PR to develop
 - [ ] Complete code review

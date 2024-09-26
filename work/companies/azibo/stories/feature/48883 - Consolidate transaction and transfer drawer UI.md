@@ -7,7 +7,7 @@
 - [x] Update bookkeeping form to match new design
 - [x] Add section styling
 - [x] Show transfer bookkeeping record values
-- [ ] Update recipient information to use recipient api (ask Ankur)
+- [x] Update recipient information to use recipient api (ask Ankur)
 - [x] Update title to reflect transfer type
 - [ ] Use front or back of check image title for drawer when in attachment view
 - [x] GIVE JOSH UPDATE BY EOD (SEP 24) OF ESTIMATE

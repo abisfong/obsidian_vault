@@ -14,13 +14,18 @@
 - [x] Disable bookkeeping record for transfers except scheduled
 - [x] Remove memo data from transaction details
 - [x] Remove `includeInScheduleE` for transfers
-- [ ] Add ability to update scheduled transfers
-- [ ] Add edit scheduled transfer drawer subpages and button
-- [ ] Add delete scheduled transfer subpage and button
+- [x] Add ability to update scheduled transfers
+- [x] Add edit scheduled transfer drawer subpages and button
+- [x] Add delete scheduled transfer subpage and button
 - [x] Use next transfer date in scheduled transfers payment timing
 - [ ] Add alert when bookkeeping record is disabled
 - [x] Show frequency for selected transfers in design
 - [ ] Fix `Payment Timing` date label
+- [ ] Internal transfers: ACH pull and next day pull, reverse from and to accounts, and amount sign
+- [ ] For check deposits, amount should be positive
+- [ ] If payee or payer match accountId, use the current users info for recipient details to avoid making calls
+- [ ] If payee is different than the LL's account id, then it is a BillPay recipient
+- [ ] Remove recipient details from funds transfer
 ## Deployment
 - [ ] Create PR to develop
 - [ ] Complete code review
@@ -56,4 +61,5 @@
 	- Vendor/tenant and recipient details
 		- Who will this be on transfers? The recipient?
 ## Notes
-- 
+- Memo for scheduled transfers is saved under description. Users can edit description
+- Work section by section

@@ -10,7 +10,7 @@
 	- Strength: One of my key strengths is my problem-solving ability. In my current role, I’ve led the replatforming of a major web application, which involved tackling complex technical challenges and finding innovative solutions. I’m also highly adaptable, having transitioned from struggling to find a job after college to becoming a key contributor at a tech startup. Additionally, my background as a first-generation immigrant has instilled in me a strong work ethic and perseverance, which I bring to every project I work on.
 	- Weakness: One area I’m working on is deepening my experience with backend technologies and data processing. While I have strong frontend development skills, I recognize that having a more holistic understanding of full-stack development would make me an even more effective engineer. I’ve started taking online courses and working on side projects to build my knowledge in this area, and I’m eager to continue developing these skills, particularly through opportunities like the Pathways Program at Meta.
 - **Career Goals**: Be clear about your short-term and long-term career goals and how Meta’s Pathways Program fits into those plans.
-	- In the short term, my goal is to continue building my technical skills and gain more experience working on large-scale projects, particularly in an innovative and structured environment like Meta’s. I’m excited about the opportunity to learn from some of the best engineers in the industry through the Pathways Program and to contribute to impactful projects that reach a global audience. Long term, I aspire to take on more leadership responsibilities, potentially leading teams or projects that focus on developing technology solutions for underserved communities. Ultimately, I want to use my skills to make a meaningful difference in the world, and I believe Meta is the perfect place to achieve that.
+	- In the short term, my goal is to continue building my technical skills and gain more experience working on large-scale projects, particularly in an innovative and structured environment like Meta’s. I’m excited about the opportunity to learn from some of the best engineers in the industry through Meta and to contribute to impactful projects that reach a global audience. Long term, I aspire to take on more leadership responsibilities, potentially leading teams or projects that focus on developing technology solutions for underserved communities. Ultimately, I want to use my skills to make a meaningful difference in the world, and I believe Meta is the perfect place to achieve that.
 - What is a project you're most proud of
 	- I’m most proud of a project where I led the replatforming of the company web app at Azibo. The goal of this project was to migrate our existing web application to a more modern tech stack, specifically using React and TypeScript, to improve performance, maintainability, and scalability. As the lead frontend engineer, I was responsible for redesigning the user interface, ensuring that the new platform was both user-friendly and aligned with our business objectives.
 	  
@@ -55,4 +55,29 @@
 	- Required to go into office in Menlo Park
 	- From April 2025 to April 2026
 	- Required to interview within 6 weeks
-	- 
+- About IC program
+	- Design
+		- How would you design instagram
+	- Tech Interview
+		- Test cases
+		- 15 minutes
+		- Need to be fast
+		- Want you to ask clarifying questions
+	- Requirements
+		- 2+ years of experience
+		- 2+ years of app design
+		- 1+ year identifying and designing features without guidance
+	- Resources
+		- Meta connect
+			- Helps you connect with Meta employee engineer
+		- Online center
+			- Have a training hub
+	- My experience
+		- Frontend heavy
+		- Worked with some backend micro services
+			- Java
+			- Payment gateway service
+			- Currently migrating the lease service
+		- Designed app that serves 20k users and is across the US
+		- Have worked with app design
+		- 

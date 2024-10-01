@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "cbb23a59ae83f1d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/job_search/interviews/Meta Interview Preparation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "136b62acc16dde96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
+                "file": "work/job_search/interviews/Justin.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md",
+                "file": "work/job_search/interviews/Justin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md",
+                "file": "work/job_search/interviews/Justin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md"
+                "file": "work/job_search/interviews/Justin.md"
               }
             }
           }
@@ -184,14 +172,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6702b6f388615ce6",
+  "active": "136b62acc16dde96",
   "lastOpenFiles": [
-    "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
     "work/job_search/interviews/Meta Interview Preparation.md",
+    "work/job_search/interviews/Justin.md",
     "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
+    "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
+    "work/job_search/interviews/Danswer.md",
+    "work/job_search/company_research/TikTok/TikTok Partnership With FOSI.md",
+    "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md",
     "work/companies/azibo/stories/feature/48196 - Update category filters in bookkeeping page.md",
     "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
-    "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md",
     "work/companies/azibo/performance/AJ Performance Review.md",
     "work/job_search/interviews/TikTok Interview Preparation.md",
     "work/job_search/interviews/AllStripes Interview Preparation.md",
@@ -213,9 +204,6 @@
     "work/companies/azibo/journal/Journal Entry 1.md",
     "templates/Story Template.md",
     "templates/Epic Template.md",
-    "templates/Cover Letter Template.md",
-    "work/companies/azibo/epics/README.md",
-    "work/job_search/resources/Google Job Boolean Searches.md",
     "work/companies/azibo/bug_trackers",
     "work/companies/azibo/stories/bugs",
     "work/companies/azibo/stories/feature",

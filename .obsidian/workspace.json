@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Story Template.md",
+                "file": "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Story Template.md",
+                "file": "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Story Template.md",
+                "file": "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Story Template.md"
+                "file": "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md"
               }
             }
           }
@@ -198,10 +198,12 @@
   },
   "active": "6702b6f388615ce6",
   "lastOpenFiles": [
-    "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
-    "work/companies/azibo/stories/feature/48196 - Update category filters in bookkeeping page.md",
-    "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
     "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
+    "work/companies/azibo/stories/feature/47976 - Add scheduled tab in Accounts page.md",
+    "work/companies/azibo/stories/feature/48196 - Update category filters in bookkeeping page.md",
+    "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
+    "templates/Story Template.md",
+    "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
     "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md",
     "work/job_search/interviews/recruiters/Justin.md",
     "work/job_search/interviews/recruiters/Marc.md",
@@ -213,7 +215,6 @@
     "work/companies/azibo/performance/AJ Performance Review.md",
     "work/job_search/interviews/companies/TikTok Interview Preparation.md",
     "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
-    "work/companies/azibo/stories/feature/47976 - Add scheduled tab in Accounts page.md",
     "work/companies/azibo/stories/bugs/48709 - Landlord Cannot Extend Prorated Payment Terms.md",
     "work/companies/azibo/features/Bookkeeping.md",
     "projects/ideas/apps/MIFY.md",
@@ -228,7 +229,6 @@
     "resources/standards",
     "templates/Journal Entry Template.md",
     "work/companies/azibo/journal/Journal Entry 1.md",
-    "templates/Story Template.md",
     "work/companies/azibo/bug_trackers",
     "work/companies/azibo/stories/bugs",
     "work/companies/azibo/stories/feature",

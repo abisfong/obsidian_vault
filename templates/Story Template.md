@@ -4,7 +4,7 @@
 Description of story
 ## Tasks
 - [ ] 
-## Bugs
+## QA Bugs
 - [ ] 
 ## Deployment
 - [ ] Create PR to develop

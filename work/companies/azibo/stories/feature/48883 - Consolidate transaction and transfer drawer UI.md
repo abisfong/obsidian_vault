@@ -23,7 +23,7 @@
 - [ ] If payee or payer match accountId, use the current users info for recipient details to avoid making calls (doesn't seem possible)
 - [x] If payee is different than the LL's account id, then it is a BillPay recipient
 - [ ] Add recipient details to transactions
-## Bugs
+## QA Bugs
 - [x] Check deposits not showing
 - [x] Fix `Payment Timing` date label
 - [x] Internal transfers: ACH pull and next day pull, reverse from and to accounts, and amount sign

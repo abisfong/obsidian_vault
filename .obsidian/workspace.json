@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md",
+                "file": "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ac37557f0f9c2af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work/job_search/interviews/recruiters/Justin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,19 +196,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de72b08f92205c90",
+  "active": "6702b6f388615ce6",
   "lastOpenFiles": [
-    "work/job_search/interviews/recruiters/Marc.md",
     "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
+    "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md",
+    "work/job_search/interviews/recruiters/Justin.md",
+    "work/job_search/interviews/recruiters/Marc.md",
+    "work/companies/azibo/stories/feature/48196 - Update category filters in bookkeeping page.md",
+    "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
     "work/job_search/interviews/companies/AllStripes Interview Preparation.md",
     "work/job_search/interviews/companies",
     "work/job_search/interviews/recruiters",
-    "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
-    "work/job_search/interviews/recruiters/Justin.md",
-    "work/companies/azibo/stories/feature/48196 - Update category filters in bookkeeping page.md",
     "work/job_search/interviews/companies/Meta Interview Preparation.md",
     "work/job_search/company_research/TikTok/TikTok Partnership With FOSI.md",
-    "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md",
     "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
     "work/companies/azibo/performance/AJ Performance Review.md",
     "work/job_search/interviews/companies/TikTok Interview Preparation.md",

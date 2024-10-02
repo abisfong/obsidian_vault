@@ -26,7 +26,7 @@
 ## Bugs
 - [x] Check deposits not showing
 - [x] Fix `Payment Timing` date label
-- [ ] Internal transfers: ACH pull and next day pull, reverse from and to accounts, and amount sign
+- [x] Internal transfers: ACH pull and next day pull, reverse from and to accounts, and amount sign
 - [x] For check deposits, amount should be positive
 - [x] Remove recipient details from funds transfer
 ## Deployment

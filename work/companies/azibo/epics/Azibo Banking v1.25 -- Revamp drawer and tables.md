@@ -13,7 +13,7 @@
 ### Bugs
 - [ ] [[47491 - Manually created transactions that are unassigned a category and or property don't appear in Unassigned]]
 ## QA
-- [[Bug Tracker - Azibo Banking v1.25]]
+- [Notion Bug Tracker](https://www.notion.so/azibo/3aa24ef2bc684f43b93af3c86f3ebf51?v=ce600fb4b446423081118235fc2af276)
 ## Notes
 - QA deltas
 	- Design deltas (what’s expected in the UI vs what we can offer)

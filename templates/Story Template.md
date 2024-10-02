@@ -4,6 +4,8 @@
 Description of story
 ## Tasks
 - [ ] 
+## Bugs
+- [ ] 
 ## Deployment
 - [ ] Create PR to develop
 - [ ] Complete code review

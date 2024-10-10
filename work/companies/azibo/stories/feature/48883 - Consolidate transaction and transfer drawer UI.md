@@ -9,7 +9,7 @@
 - [x] Show transfer bookkeeping record values
 - [x] Update recipient information to use recipient api (ask Ankur)
 - [x] Update title to reflect transfer type
-- [ ] Use front or back of check image title for drawer when in attachment view
+- [x] Use front or back of check image title for drawer when in attachment view
 - [x] GIVE JOSH UPDATE BY EOD (SEP 24) OF ESTIMATE
 - [x] Disable bookkeeping record for transfers except scheduled
 - [x] Remove memo data from transaction details
@@ -22,13 +22,25 @@
 - [x] Show frequency for selected transfers in design
 - [ ] If payee or payer match accountId, use the current users info for recipient details to avoid making calls (doesn't seem possible)
 - [x] If payee is different than the LL's account id, then it is a BillPay recipient
-- [ ] Add recipient details to transactions
+- [x] Add recipient details to transactions
 ## QA Bugs
 - [x] Check deposits not showing
 - [x] Fix `Payment Timing` date label
 - [x] Internal transfers: ACH pull and next day pull, reverse from and to accounts, and amount sign
 - [x] For check deposits, amount should be positive
 - [x] Remove recipient details from funds transfer
+- [x] Check that check deposits match desgin
+- [x] Use accounts & payee/payerAccountIds for "Pay from account" and "Pay to account"
+- [x] Check that wires match design
+- [x] Check that BillPays match design
+- [x] Check that funds transfers match design
+- [x] Check that ACHs match design (may not be possible since ACH is not used by BE)
+- [x] Check that debit cards match design
+- [ ] Cannot update vendor details for scheduled funds transfer
+- [ ] Cannot edit scheduled transfer (recipient not loading in recipient form)
+- [ ] Update ACH_PUSH display type in Bill Payments (formerly Outgoing Payments)
+- [ ] Notes input not showing when transaction is split
+- [x] Complete badge is not the correct green
 ## Deployment
 - [ ] Create PR to develop
 - [ ] Complete code review

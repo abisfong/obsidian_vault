@@ -1,0 +1,4 @@
+- **Target Market**: Identify who your primary customers will be. Will you target individuals (for custom products), businesses (for prototypes), or specific industries like medical devices, automotive parts, or education?
+	- 
+- **Business Goals**: Define short-term and long-term goals. Do you want to start locally or expand globally? Would you focus on a niche (like miniatures, prosthetics, or spare parts) or provide a variety of services?
+- **Unique Selling Proposition (USP)**: What sets you apart? This could be fast delivery times, unique designs, high-quality printing materials, or customization services.

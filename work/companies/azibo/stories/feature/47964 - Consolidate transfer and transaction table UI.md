@@ -21,7 +21,8 @@ We're currently using separate tables for transfers and transactions. Join the t
 - [x] Remove category filter from transfer table
 - [x] Update sorting filters to pass PGS sorting params
 - [x] Update property filter to send `properties: string[]` rather than `propertyIds`
-- [ ] Update transfer row display type to include BillPay
+- [x] Update transfer row display type to include BillPay
+- [ ] Fix bookkeeping table filter lengths
 ## QA Bugs
 ## Deployment
 - [ ] Create PR to develop

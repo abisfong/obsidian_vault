@@ -36,11 +36,13 @@
 - [x] Check that funds transfers match design
 - [x] Check that ACHs match design (may not be possible since ACH is not used by BE)
 - [x] Check that debit cards match design
-- [ ] Cannot update vendor details for scheduled funds transfer
+- [x] Cannot update vendor details for scheduled funds transfer
 - [ ] Cannot edit scheduled transfer (recipient not loading in recipient form)
-- [ ] Update ACH_PUSH display type in Bill Payments (formerly Outgoing Payments)
+- [x] Update ACH_PUSH display type in Bill Payments (formerly Outgoing Payments)
 - [ ] Notes input not showing when transaction is split
+- [x] Update check deposit date label as mentioned [here](https://zibo-workspace.slack.com/archives/C04UCDU6K2A/p1728587696146579?thread_ts=1728586804.524599&cid=C04UCDU6K2A)\
 - [x] Complete badge is not the correct green
+- [x] Update `Interest pay` to `Interest income`
 ## Deployment
 - [ ] Create PR to develop
 - [ ] Complete code review

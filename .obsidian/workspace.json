@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
+                "file": "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/companies/azibo/stories/feature/46000 - Secondary tenant.md",
+                "file": "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/companies/azibo/stories/feature/46000 - Secondary tenant.md",
+                "file": "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/companies/azibo/stories/feature/46000 - Secondary tenant.md"
+                "file": "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md"
               }
             }
           }
@@ -196,15 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e73184270537fe5",
+  "active": "de72b08f92205c90",
   "lastOpenFiles": [
+    "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
+    "work/companies/azibo/stories/feature/46000 - Secondary tenant.md",
+    "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
+    "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
     "work/companies/azibo/stories/feature/47426 - Petty cash category.md",
     "work/job_search/interviews/recruiters/Tom.md",
     "work/companies/azibo/stories/feature/48196 - Update category filters in bookkeeping page.md",
-    "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
-    "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
-    "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
-    "work/companies/azibo/stories/feature/46000 - Secondary tenant.md",
     "work/job_search/interviews/recruiters/Justin.md",
     "work/job_search/interviews/recruiters/Marc.md",
     "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",

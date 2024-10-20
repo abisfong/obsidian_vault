@@ -1,0 +1,4 @@
+- [ ] Add README to all directories that are not components
+- [ ] Add JsDocs to all files
+- [ ] Add unit tests for each file
+- [ ] 

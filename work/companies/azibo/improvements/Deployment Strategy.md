@@ -1,0 +1,41 @@
+## Current Strategy
+- 6 environments: 
+	- `app-dev.azibo.com`
+	- `app-feature01.azibo.com`
+	- `app-feature02.azibo.com`
+	- `app-feature03.azibo.com` 
+	- `app-stage.azibo.com`
+		- This environment is used by our sales team for demos as well as by engineers for QA testing
+	- `app.azibo.com`
+- Branching strategy: 
+	- a `develop` branch 
+		- When code is merged to `develop`, it gets automatically deployed to `app- dev.azibo.com` and `app-stage.azibo.com` through GitHub actions 
+	- a `master` branch 
+		- When code is merged to `master`, it gets automatically deployed to `app.azibo.com`
+		- When a frontend software engineer wants to test their code before deploying, they have to deploy it to one of the feature environments through GitHub actions
+
+## Proposed Strategy
+- Use only the 3 following environments: 
+	- `app-dev.azibo.com` 
+	- `app-demo.azibo.com` 
+	- `app.azibo.com` 
+- Use the following branches: 
+	- `develop` 
+		- Parent branch of all feature branches
+		- Merge `prod` into develop on each release
+	- `feature/<feature-name>`/`sc-<ticket-number>`
+		- Must branch off of `develop`
+		- Must merge into `prod`
+		- Merge `develop` into feature branch as needed
+		- Does not merge back into `develop`
+	- `stage` 
+		- Merge develop to stage when we're getting ready to deploy for QA 
+		- Only merge to stage when code is running smoothly and almost production ready 
+		- Deploy to app-dev.azibo.com what is on stage on merge to stage. 
+		- For bug fixes during QA, merge `stage` into feature branch if needed, then work on bug fixes in feature branch
+	- `prod`
+		- Merge stage to prod when all QA tests have passed and the QA team has given the okay 
+		- Deploy prod branch code to `app.azibo.com` on merge to prod from stage 
+	- `bug-fix/<fix-name>` 
+		- Must branch off of `prod` 
+		- Used when a quick fix is required after deployment to production or for reported bugs

@@ -3,7 +3,7 @@
 ## Overview
 Description of story
 ## Tasks
-- [ ] 
+- [ ] Add input in current assets
 ## QA Bugs
 - [ ] 
 ## Deployment

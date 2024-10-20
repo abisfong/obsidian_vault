@@ -8,48 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de72b08f92205c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "273cd97cf3fe2259",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
+                "file": "work/companies/azibo/improvements/Deployment Strategy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e73184270537fe5",
+            "id": "1a52832c7b1b85be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/companies/azibo/stories/feature/46000 - Secondary tenant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "780a1a7fb6f0eddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
+                "file": "work/companies/azibo/stories/feature/47426 - Petty cash category.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58858e6bbd1df8bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research/tools/react/types/HTML Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
+                "file": "research/tools/react/types/HTML Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
+                "file": "research/tools/react/types/HTML Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md"
+                "file": "research/tools/react/types/HTML Types.md"
               }
             }
           }
@@ -195,43 +184,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de72b08f92205c90",
+  "active": "33cf8879082d7e46",
   "lastOpenFiles": [
-    "work/companies/azibo/stories/feature/48883 - Consolidate transaction and transfer drawer UI.md",
-    "work/companies/azibo/stories/feature/46000 - Secondary tenant.md",
-    "work/companies/azibo/stories/feature/47964 - Consolidate transfer and transaction table UI.md",
-    "work/companies/azibo/stories/feature/45696 - Category picked on billpay is not showing on transactions in bookkeeping.md",
-    "work/companies/azibo/stories/feature/47426 - Petty cash category.md",
-    "work/job_search/interviews/recruiters/Tom.md",
-    "work/companies/azibo/stories/feature/48196 - Update category filters in bookkeeping page.md",
-    "work/job_search/interviews/recruiters/Justin.md",
-    "work/job_search/interviews/recruiters/Marc.md",
-    "work/companies/azibo/epics/Azibo Banking v1.25 -- Revamp drawer and tables.md",
-    "work/job_search/interviews/companies/Meta Interview Preparation.md",
-    "business/MIFY/plan/Business Plan.md",
+    "research/dsa",
+    "research/tools",
+    "research/tools/material_ui/components/Table.md",
+    "research/dsa/data_structures/trees/binary/Min Heap Tree.md",
+    "research/dsa/data_structures/trees/binary/Max Heap Tree.md",
+    "research/dsa/data_structures/trees/binary/Complete Binary Tree.md",
+    "research/dsa/data_structures/trees/binary/Binary Tree.md",
+    "research/dsa/data_structures/trees/binary/Binary Heap Tree.md",
+    "research/dsa/data_structures/trees/binary/Balanced Binary Tree.md",
+    "research/books/Cracking The Coding Interview.md",
+    "research/tools/aws/AWS Cloud Practitioner.md",
+    "research/dsa/algorithms/Depth First Search.md",
+    "templates/Algorithm.md",
+    "research/dsa/algorithms/Noncontiguous Subsets.md",
+    "research/dsa/algorithms/Heap Sort.md",
+    "research/dsa/algorithms/Contiguous Subsets.md",
+    "work/companies/azibo/improvements/Deployment Strategy.md",
+    "research/dsa/algorithms/Merge Sort.md",
+    "work/job_search/interviews/recruiters/Jayanthi & Amar.md",
+    "research/tools/react/types/HTML Types.md",
     "business/MIFY/plan/Pricing and Cost Structure.md",
     "business/MIFY/plan/Operations and Logistics.md",
     "business/MIFY/plan/Marketing Strategy.md",
     "business/MIFY/plan/Equipment and Materials.md",
+    "business/MIFY/plan/Business Plan.md",
+    "projects/monorepos/zen/Master Todo.md",
+    "projects/monorepos/zen",
+    "projects/monorepos",
+    "work/companies/azibo/stories/feature/47426 - Petty cash category.md",
+    "work/companies/azibo/improvements",
     "business/MIFY/plan",
     "business/MIFY",
     "business",
-    "work/companies/azibo/stories/feature/47976 - Add scheduled tab in Accounts page.md",
-    "templates/Story Template.md",
-    "work/companies/azibo/bug_trackers/Bug Tracker - Azibo Banking v1.25.md",
-    "work/job_search/interviews/companies/AllStripes Interview Preparation.md",
     "work/job_search/interviews/companies",
     "work/job_search/interviews/recruiters",
-    "work/job_search/company_research/TikTok/TikTok Partnership With FOSI.md",
-    "work/companies/azibo/performance/AJ Performance Review.md",
-    "work/job_search/interviews/companies/TikTok Interview Preparation.md",
-    "work/companies/azibo/stories/bugs/48709 - Landlord Cannot Extend Prorated Payment Terms.md",
-    "work/companies/azibo/features/Bookkeeping.md",
-    "projects/ideas/apps/MIFY.md",
-    "projects/ideas/apps",
-    "projects/ideas/components",
-    "work/companies/azibo/performance",
-    "resources/standards",
-    "work/companies/azibo/bug_trackers"
+    "projects/ideas/apps"
   ]
 }

@@ -1,0 +1,1 @@
+Decided to use Playwright on 19 October 2024 when I generated the Small Groups react app. It provides more granularity and improved testing speed for larger projects.

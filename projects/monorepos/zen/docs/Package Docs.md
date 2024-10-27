@@ -1,0 +1,3 @@
+- [JSDoc Prettier](https://www.npmjs.com/package/prettier-plugin-jsdoc?activeTab=readme)
+- [Zustand](https://github.com/pmndrs/zustand)
+- 

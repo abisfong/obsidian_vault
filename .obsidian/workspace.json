@@ -8,55 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "273cd97cf3fe2259",
+            "id": "edb5fa457cc5cf80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/companies/azibo/improvements/Deployment Strategy.md",
+                "file": "research/tools/build_systems/Nx 19.5.2.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1a52832c7b1b85be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/companies/azibo/stories/feature/47426 - Petty cash category.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf175d723a7eeab2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/companies/azibo/stories/feature/46000 - Secondary tenant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58858e6bbd1df8bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/tools/react/types/HTML Types.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Nx 19.5.2"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -91,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -122,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/tools/react/types/HTML Types.md",
+                "file": "business/MIFY/plan/Equipment and Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Equipment and Materials"
             }
           },
           {
@@ -139,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research/tools/react/types/HTML Types.md",
+                "file": "business/MIFY/plan/Equipment and Materials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Equipment and Materials"
             }
           },
           {
@@ -153,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -162,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/tools/react/types/HTML Types.md"
-              }
+                "file": "business/MIFY/plan/Equipment and Materials.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Equipment and Materials"
             }
           }
         ]
@@ -184,43 +163,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33cf8879082d7e46",
+  "active": "edb5fa457cc5cf80",
   "lastOpenFiles": [
+    "research/tools/build_systems/Nx",
+    "research/tools/testing/Vite.md",
+    "projects/monorepos/zen/design_decisions/Testing.md",
+    "research/tools/testing",
+    "work/companies/azibo/stories/feature/46000 - Secondary tenant.md",
+    "work/companies/azibo/stories/feature/47426 - Petty cash category.md",
+    "business/MIFY/plan/Pricing and Cost Structure.md",
+    "business/MIFY/plan/Equipment and Materials.md",
+    "business/MIFY/plan/Business Plan.md",
+    "business/MIFY/plan/Operations and Logistics.md",
+    "business/MIFY/plan/Marketing Strategy.md",
+    "projects/monorepos/zen/docs/Package Docs.md",
+    "projects/monorepos/zen/design_decisions",
+    "research/tools/build_systems/Nx 19.5.2.md",
+    "research/tools/build_systems",
+    "resources/standards/Style Guides.md",
+    "projects/monorepos/zen/docs",
+    "resources/standards/Code Documentation.md",
+    "resources/standards/Epic Standards.md",
+    "resources/links/Digital Foot Print.md",
+    "resources/links/Web Dev.md",
+    "research/tools/ui/react/types/HTML Types.md",
+    "research/tools/languages",
+    "research/tools/ui",
+    "research/tools/programming",
+    "research/tools/cloud_computing",
     "research/dsa",
     "research/tools",
-    "research/tools/material_ui/components/Table.md",
+    "research/tools/ui/material_ui/components/Table.md",
     "research/dsa/data_structures/trees/binary/Min Heap Tree.md",
     "research/dsa/data_structures/trees/binary/Max Heap Tree.md",
     "research/dsa/data_structures/trees/binary/Complete Binary Tree.md",
     "research/dsa/data_structures/trees/binary/Binary Tree.md",
     "research/dsa/data_structures/trees/binary/Binary Heap Tree.md",
     "research/dsa/data_structures/trees/binary/Balanced Binary Tree.md",
-    "research/books/Cracking The Coding Interview.md",
-    "research/tools/aws/AWS Cloud Practitioner.md",
-    "research/dsa/algorithms/Depth First Search.md",
-    "templates/Algorithm.md",
-    "research/dsa/algorithms/Noncontiguous Subsets.md",
-    "research/dsa/algorithms/Heap Sort.md",
-    "research/dsa/algorithms/Contiguous Subsets.md",
-    "work/companies/azibo/improvements/Deployment Strategy.md",
-    "research/dsa/algorithms/Merge Sort.md",
-    "work/job_search/interviews/recruiters/Jayanthi & Amar.md",
-    "research/tools/react/types/HTML Types.md",
-    "business/MIFY/plan/Pricing and Cost Structure.md",
-    "business/MIFY/plan/Operations and Logistics.md",
-    "business/MIFY/plan/Marketing Strategy.md",
-    "business/MIFY/plan/Equipment and Materials.md",
-    "business/MIFY/plan/Business Plan.md",
-    "projects/monorepos/zen/Master Todo.md",
-    "projects/monorepos/zen",
-    "projects/monorepos",
-    "work/companies/azibo/stories/feature/47426 - Petty cash category.md",
-    "work/companies/azibo/improvements",
-    "business/MIFY/plan",
-    "business/MIFY",
-    "business",
-    "work/job_search/interviews/companies",
-    "work/job_search/interviews/recruiters",
-    "projects/ideas/apps"
+    "research/books/Cracking The Coding Interview.md"
   ]
 }

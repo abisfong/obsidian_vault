@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/tools/build_systems/Nx 19.5.2.md",
+                "file": "business/MIFY/plan/Equipment and Materials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nx 19.5.2"
+              "title": "Equipment and Materials"
             }
           }
         ]
@@ -165,6 +165,8 @@
   },
   "active": "edb5fa457cc5cf80",
   "lastOpenFiles": [
+    "business/MIFY/plan/Business Plan.md",
+    "research/tools/build_systems/Nx 19.5.2.md",
     "research/tools/build_systems/Nx",
     "research/tools/testing/Vite.md",
     "projects/monorepos/zen/design_decisions/Testing.md",
@@ -173,12 +175,10 @@
     "work/companies/azibo/stories/feature/47426 - Petty cash category.md",
     "business/MIFY/plan/Pricing and Cost Structure.md",
     "business/MIFY/plan/Equipment and Materials.md",
-    "business/MIFY/plan/Business Plan.md",
     "business/MIFY/plan/Operations and Logistics.md",
     "business/MIFY/plan/Marketing Strategy.md",
     "projects/monorepos/zen/docs/Package Docs.md",
     "projects/monorepos/zen/design_decisions",
-    "research/tools/build_systems/Nx 19.5.2.md",
     "research/tools/build_systems",
     "resources/standards/Style Guides.md",
     "projects/monorepos/zen/docs",
@@ -192,7 +192,6 @@
     "research/tools/programming",
     "research/tools/cloud_computing",
     "research/dsa",
-    "research/tools",
     "research/tools/ui/material_ui/components/Table.md",
     "research/dsa/data_structures/trees/binary/Min Heap Tree.md",
     "research/dsa/data_structures/trees/binary/Max Heap Tree.md",

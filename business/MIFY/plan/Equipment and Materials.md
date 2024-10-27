@@ -7,3 +7,11 @@
     - **Nylon**: Durable and flexible.
     - **Resin**: More detailed, good for industries like jewelry.
     - **Specialty Filaments**: Metal-infused, wood, carbon fiber for high-end products.
+
+
+# Printers
+### Companies
+- Formlabs
+- Bambu
+## Devices
+- [ Bambu Lab A1 mini 3d Printer: $200](https://us.store.bambulab.com/collections/3d-printer/products/a1-mini)
